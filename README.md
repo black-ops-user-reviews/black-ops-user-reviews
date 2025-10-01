@@ -28,4 +28,6 @@ Conclusion
 
 Leveraging user reviews wisely enhances your safety and experience on the Black Ops darknet market.
 
-Update:  Thursday 18 September 2025 Link is live again
+
+
+Update:  01 October 2025 Fixed broken external link
